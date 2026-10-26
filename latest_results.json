@@ -1,0 +1,18 @@
+{
+  "overall_status": "Failed",
+  "inputs_processed": 1,
+  "failing_seed": 90708,
+  "confidence_score": 0.05,
+  "properties_tested": [
+    {
+      "name": "EntanglementStageProperty",
+      "status": "Fail"
+    }
+  ],
+  "counts": {
+    "10": 2552,
+    "00": 2529,
+    "11": 2468,
+    "01": 2451
+  }
+}
